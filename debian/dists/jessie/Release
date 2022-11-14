@@ -1,0 +1,37 @@
+Origin: pmateusz.github.io/debian
+Label: pmateusz.github.io/debian
+Codename: jessie
+Date: Mon, 14 Nov 2022 09:14:05 UTC
+Architectures: amd64 armhf arm64
+Components: main
+Description: Personal repository
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ 0b7abd9bc177de1eda5451416e3d7076 136 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-armhf/Packages.gz
+ c3d7a3996c181de461aa820d910b1ae8 136 main/binary-armhf/Release
+ ba533b4c38fa620e2f7f7d6faa3ed72b 869 main/binary-arm64/Packages
+ c74dc69ab18fb0eb9b84b60f13f80358 511 main/binary-arm64/Packages.gz
+ 0e43b2e99c5342702494301e9fe72661 136 main/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ 887d4d0762a8f5e603f8e85b81b496c2b71479d7 136 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-armhf/Packages.gz
+ 2fcd40c9034a1cb7a9ad6cff6cb113447a7e7010 136 main/binary-armhf/Release
+ e2f7169f66ff3d33abcde0e890600d5ee03348db 869 main/binary-arm64/Packages
+ 47a16b6ed8cfb95e7471cdab0c49fb463a1c4438 511 main/binary-arm64/Packages.gz
+ 26bd39c834ff9df616b611fc11a92d76a18835c5 136 main/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ 7ae5294d2c53311db54f3a8f03c34282a24ff00660bf1be56bb0458e56f47179 136 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-armhf/Packages.gz
+ 68cd9207beabf190395b3387d36560ecd784b39df37f21dd38d95438ade96421 136 main/binary-armhf/Release
+ 07f32e2950ae4ee3546cc3a9778b0dd391df32b75cf8008af2b0f3501a25a134 869 main/binary-arm64/Packages
+ f2f9bc088d477537856a353637974ea00487c2327f07d4d38bd470f89c5b4e47 511 main/binary-arm64/Packages.gz
+ 33f11be7a420c12cd56426eafb0cd522986b985db7314c19a31c2e772dac2035 136 main/binary-arm64/Release
